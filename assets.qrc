@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>forms/impegni.jpg</file>
+        <file>forms/universita.jpg</file>
+        <file>forms/promemoria.jpg</file>
+        <file>forms/lavoro.jpg</file>
+        <file>forms/compleanno.jpg</file>
+        <file>forms/scadenza.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,137 @@
+{
+  "Impegni": [
+    {
+      "Titolo": "Donazione sangue",
+      "Descrizione": "Donare il sangue presso il centro trasfusionale",
+      "Luogo": "Centro Trasfusionale Ospedale San Giovanni",
+      "Data": "20/02/2026",
+      "Orario": "9:00"
+    },
+    {
+      "Titolo": "Allenamento",
+      "Descrizione": "Corsa leggera + stretching",
+      "Luogo": "Parco Iris",
+      "Data": "19/12/2025",
+      "Orario": "07:45"
+    },
+    {
+      "Titolo": "Aperitivo con Chiara",
+      "Descrizione": "Ritrovo al locale e chiacchiere",
+      "Luogo": "Piazza delle Erbe",
+      "Data": "20/12/2025",
+      "Orario": "18:15"
+    }
+  ],
+  "Scadenze": [
+    {
+      "Titolo": "Bolletta luce",
+      "Descrizione": "Pagamento online",
+      "Data": "22/12/2025",
+      "Categoria": "Casa",
+      "Priorita": 5
+    },
+    {
+      "Titolo": "Consegna progetto Qt",
+      "Descrizione": "Ultimo commit + zip",
+      "Data": "10/01/2026",
+      "Categoria": "Università",
+      "Priorita": 4
+    },
+    {
+      "Titolo": "Rinnovo abbonamento bus",
+      "Descrizione": "Ricarica mensile",
+      "Data": "28/12/2025",
+      "Categoria": "Trasporti",
+      "Priorita": 3
+    }
+  ],
+  "Universita": [
+    {
+      "Titolo": "Algoritmi e Strutture Dati",
+      "Tipo": "Lezione",
+      "Docente": "Prof. Rossi",
+      "Aula": "Aula 1 – Paolotti",
+      "Data": "17/12/2025",
+      "Orario": "10:30"
+    },
+    {
+      "Titolo": "Basi di Dati",
+      "Tipo": "Laboratorio",
+      "Docente": "Prof.ssa Bianchi",
+      "Aula": "Lab 3 – Delta",
+      "Data": "18/12/2025",
+      "Orario": "14:30"
+    },
+    {
+      "Titolo": "Reti di Calcolatori",
+      "Tipo": "Ricevimento",
+      "Docente": "Prof. Verdi",
+      "Aula": "Studio 2.14",
+      "Data": "19/12/2025",
+      "Orario": "12:00"
+    }
+  ],
+  "Lavoro": [
+    {
+      "Titolo": "Turno serale",
+      "Azienda": "Caffè Centrale",
+      "Luogo": "Padova Centro",
+      "Data": "21/12/2025",
+      "Orario": "18:00"
+    },
+    {
+      "Titolo": "Riunione team",
+      "Azienda": "TechLab srl",
+      "Luogo": "Meeting Room B",
+      "Data": "23/12/2025",
+      "Orario": "09:30"
+    },
+    {
+      "Titolo": "Consegna report",
+      "Azienda": "TechLab srl",
+      "Luogo": "Da remoto",
+      "Data": "27/12/2025",
+      "Orario": "16:00"
+    }
+  ],
+  "Promemoria": [
+    {
+      "Titolo": "Comprare verdure",
+      "Contenuto": "Ricordare di prendere zucchine, carote e insalata al supermercato",
+      "Data": "16/12/2025",
+      "Tipologia": "Spesa"
+    },
+    {
+      "Titolo": "Controllare bug Promemoria",
+      "Contenuto": "Verificare perché il campo Tipologia non viene caricato dal JSON",
+      "Data": "17/12/2025",
+      "Tipologia": "Debug"
+    },
+    {
+      "Titolo": "Chiamare medico",
+      "Contenuto": "Prenotare visita di controllo",
+      "Data": "20/12/2025",
+      "Tipologia": "Salute"
+    }
+  ],
+  "Compleanni": [
+    {
+      "Nome": "Luca",
+      "Data": "24/09/2025",
+      "Promemoria": "Compra un pensiero (libro)",
+      "Tipologia": "Amico"
+    },
+    {
+      "Nome": "Mamma",
+      "Data": "05/01/2026",
+      "Promemoria": "Fiori + cena",
+      "Tipologia": "Famiglia"
+    },
+    {
+      "Nome": "Giulia",
+      "Data": "12/01/2026",
+      "Promemoria": "Messaggio + regalo piccolo",
+      "Tipologia": "Collega"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Archivio>
+    <Impegni>
+        <Item>
+            <Field name="Titolo">Donazione sangue</Field>
+            <Field name="Descrizione">Donare il sangue presso il centro trasfusionale</Field>
+            <Field name="Luogo">Centro Trasfusionale Ospedale San Giovanni</Field>
+            <Field name="Data">20/02/2026</Field>
+            <Field name="Orario">9:00</Field>
+        </Item>
+        <Item>
+            <Field name="Titolo">Allenamento</Field>
+            <Field name="Descrizione">Corsa leggera + stretching</Field>
+            <Field name="Luogo">Parco Iris</Field>
+            <Field name="Data">19/12/2025</Field>
+            <Field name="Orario">07:45</Field>
+        </Item>
+        <Item>
+            <Field name="Titolo">Aperitivo con Chiara</Field>
+            <Field name="Descrizione">Ritrovo al locale e chiacchiere</Field>
+            <Field name="Luogo">Piazza delle Erbe</Field>
+            <Field name="Data">20/12/2025</Field>
+            <Field name="Orario">18:15</Field>
+        </Item>
+    </Impegni>
+
+    <Scadenze>
+        <Item>
+            <Field name="Titolo">Bolletta luce</Field>
+            <Field name="Descrizione">Pagamento online</Field>
+            <Field name="Data">22/12/2025</Field>
+            <Field name="Categoria">Casa</Field>
+            <Field name="Priorita">5</Field>
+        </Item>
+        <Item>
+            <Field name="Titolo">Consegna progetto Qt</Field>
+            <Field name="Descrizione">Ultimo commit + zip</Field>
+            <Field name="Data">10/01/2026</Field>
+            <Field name="Categoria">Università</Field>
+            <Field name="Priorita">4</Field>
+        </Item>
+        <Item>
+            <Field name="Titolo">Rinnovo abbonamento bus</Field>
+            <Field name="Descrizione">Ricarica mensile</Field>
+            <Field name="Data">28/12/2025</Field>
+            <Field name="Categoria">Trasporti</Field>
+            <Field name="Priorita">3</Field>
+        </Item>
+    </Scadenze>
+
+    <Universita>
+        <Item>
+            <Field name="Titolo">Algoritmi e Strutture Dati</Field>
+            <Field name="Tipo">Lezione</Field>
+            <Field name="Docente">Prof. Rossi</Field>
+            <Field name="Aula">Aula 1 – Paolotti</Field>
+            <Field name="Data">17/12/2025</Field>
+            <Field name="Orario">10:30</Field>
+        </Item>
+        <Item>
+            <Field name="Titolo">Basi di Dati</Field>
+            <Field name="Tipo">Laboratorio</Field>
+            <Field name="Docente">Prof.ssa Bianchi</Field>
+            <Field name="Aula">Lab 3 – Delta</Field>
+            <Field name="Data">18/12/2025</Field>
+            <Field name="Orario">14:30</Field>
+        </Item>
+        <Item>
+            <Field name="Titolo">Reti di Calcolatori</Field>
+            <Field name="Tipo">Ricevimento</Field>
+            <Field name="Docente">Prof. Verdi</Field>
+            <Field name="Aula">Studio 2.14</Field>
+            <Field name="Data">19/12/2025</Field>
+            <Field name="Orario">12:00</Field>
+        </Item>
+    </Universita>
+
+    <Lavoro>
+        <Item>
+            <Field name="Titolo">Turno serale</Field>
+            <Field name="Azienda">Caffè Centrale</Field>
+            <Field name="Luogo">Padova Centro</Field>
+            <Field name="Data">21/12/2025</Field>
+            <Field name="Orario">18:00</Field>
+        </Item>
+        <Item>
+            <Field name="Titolo">Riunione team</Field>
+            <Field name="Azienda">TechLab srl</Field>
+            <Field name="Luogo">Meeting Room B</Field>
+            <Field name="Data">23/12/2025</Field>
+            <Field name="Orario">09:30</Field>
+        </Item>
+        <Item>
+            <Field name="Titolo">Consegna report</Field>
+            <Field name="Azienda">TechLab srl</Field>
+            <Field name="Luogo">Da remoto</Field>
+            <Field name="Data">27/12/2025</Field>
+            <Field name="Orario">16:00</Field>
+        </Item>
+    </Lavoro>
+
+    <Promemoria>
+        <Item>
+            <Field name="Titolo">Comprare verdure</Field>
+            <Field name="Contenuto">Ricordare di prendere zucchine, carote e insalata al supermercato</Field>
+            <Field name="Data">16/12/2025</Field>
+            <Field name="Tipologia">Spesa</Field>
+        </Item>
+        <Item>
+            <Field name="Titolo">Controllare bug Promemoria</Field>
+            <Field name="Contenuto">Verificare perché il campo Tipologia non viene caricato dal JSON</Field>
+            <Field name="Data">17/12/2025</Field>
+            <Field name="Tipologia">Debug</Field>
+        </Item>
+        <Item>
+            <Field name="Titolo">Chiamare medico</Field>
+            <Field name="Contenuto">Prenotare visita di controllo</Field>
+            <Field name="Data">20/12/2025</Field>
+            <Field name="Tipologia">Salute</Field>
+        </Item>
+    </Promemoria>
+
+    <Compleanni>
+        <Item>
+            <Field name="Nome">Luca</Field>
+            <Field name="Data">24/12/2025</Field>
+            <Field name="Promemoria">Compra un pensiero (libro)</Field>
+            <Field name="Tipologia">Amico</Field>
+        </Item>
+        <Item>
+            <Field name="Nome">Mamma</Field>
+            <Field name="Data">05/01/2026</Field>
+            <Field name="Promemoria">Fiori + cena</Field>
+            <Field name="Tipologia">Famiglia</Field>
+        </Item>
+        <Item>
+            <Field name="Nome">Giulia</Field>
+            <Field name="Data">12/01/2026</Field>
+            <Field name="Promemoria">Messaggio + regalo piccolo</Field>
+            <Field name="Tipologia">Collega</Field>
+        </Item>
+    </Compleanni>
+</Archivio>
